@@ -1,1 +1,1 @@
-# <img src="Metamap_logo.png" width="400px">
+# <img src="Metamap_logo.png" width="800px">
