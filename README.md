@@ -20,13 +20,11 @@ Pol II and III ChIP-seq data were compiled by unique cellular context for each i
 <img src="Poisson.png" width="300px">
 </p>
 
-We next applied a peak calling framework for establish- ing a global polymerase-specific score at 50 bp resolution. Briefly, a poisson probability was calculated for every 50 bp bin by comparing the observed signal to a local expectation - lambda - defined as the maximum polymerase signal at 5 Kb, 10 Kb, or genome-wide - a stringent approach that accounts for local chromatin biases specific to each genomic window.
+We next applied a peak calling framework for establish- ing a global polymerase-specific score at 50 bp resolution. Briefly, a poisson probability was calculated for every 50 bp bin by comparing the observed signal to a local expectation - lambda - defined as the maximum polymerase signal at 5 Kb, 10 Kb, or genome-wide - a stringent approach that accounts for local chromatin biases specific to each genomic window. Our uniform scoring framework successfully recovers Pol I-specific occupancy of rRNA, Pol II-specific occupancy of snoRNA, and Pol III-specific occupancy of tRNA (specific examples shown below). 
 
-
-...
 
 <p align="center">
-<img src="Examples.png" width="700px">
+<img src="Examples.png" width="720px">
 </p>
 
 
