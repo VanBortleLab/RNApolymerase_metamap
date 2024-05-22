@@ -8,7 +8,7 @@ We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol
 
 # Data processing:
 
-We retrieved available ChIP-seq data corresponding to complex-specific Pol I, II, and III subunits. Previous mapp- ing experiments for human Pol I are exceptionally limited, with only 2 datasets for binding of the large subunits, POLR1A and POLR1B. Pol II datasets are significantly more abundant, with 153 POLR2A ChIP-seq experiments available for the large subunit of Pol II. ChIP-seq experi- ments for Pol III, on the other hand, include a multitude of Pol III-specific subunits, including POLR3A, -B, -C, -D, -E, and -G
+We retrieved available ChIP-seq data corresponding to complex-specific Pol I, II, and III subunits. Previous mapping experiments for human Pol I are exceptionally limited, with only 2 datasets for binding of the large subunits, POLR1A and POLR1B. Pol II datasets are significantly more abundant, with 153 POLR2A ChIP-seq experiments available for the large subunit of Pol II. ChIP-seq experiments for Pol III, on the other hand, include a multitude of Pol III-specific subunits, including POLR3A, -B, -C, -D, -E, and -G
 
 <p align="center">
 <img src="Pol_subunits.png" width="700px">
