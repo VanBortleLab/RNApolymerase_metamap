@@ -25,7 +25,9 @@ We next applied a peak calling framework for establish- ing a global polymerase-
 
 ...
 
-# <img src="Examples.png" width="600px">
+<p align="center">
+<img src="Examples.png" width="700px">
+</p>
 
 
 # Data formats
