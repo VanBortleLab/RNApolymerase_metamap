@@ -36,4 +36,334 @@ We next applied a peak calling framework for establish- ing a global polymerase-
 
 
 
-
+| Antigen     | Cell.type                               | Net_seqdepth     | seqdepth      | paired     | read1             | read2             | SRX             |
+|---------    |-------------------------------------    |--------------    |-----------    |--------    |---------------    |---------------    |-------------    |
+| BRF1        | HeLa                                    | 62310128         | 21932342      | No         | SRR502568         | -                 | SRX150661       |
+| BRF1        | HeLa                                    | 62310128         | 13593122      | No         | SRR039063         | -                 | SRX018607       |
+| BRF1        | HeLa                                    | 62310128         | 5861531       | No         | SRR036647         | -                 | SRX016998       |
+| BRF1        | HeLa                                    | 62310128         | 20923133      | No         | SRR502569         | -                 | SRX150661       |
+| BRF1        | THP-1                                   | 133351308        | 133351308     | Yes        | SRR13268103_1     | SRR13268103_2     | SRX9698443      |
+| BRF1        | hESC H9                                 | 67311194         | 16284757      | No         | SRR5224137        | -                 | SRX2533318      |
+| BRF1        | hESC H9                                 | 67311194         | 19262222      | No         | SRR5224138        | -                 | SRX2533319      |
+| BRF1        | hESC H9                                 | 67311194         | 15634898      | No         | SRR5224139        | -                 | SRX2533320      |
+| BRF1        | hESC H9                                 | 67311194         | 16129317      | No         | SRR5224136        | -                 | SRX2533317      |
+| GTF3C1      | HeLa                                    | 88466227         | 9241855       | No         | SRR036662         | -                 | SRX017005       |
+| GTF3C1      | HeLa                                    | 88466227         | 14248117      | No         | SRR039064         | -                 | SRX018608       |
+| GTF3C1      | HeLa                                    | 88466227         | 11753968      | No         | SRR039065         | -                 | SRX018608       |
+| GTF3C1      | HeLa                                    | 88466227         | 22169137      | No         | SRR502068         | -                 | SRX150422       |
+| GTF3C1      | HeLa                                    | 88466227         | 8933197       | No         | SRR036663         | -                 | SRX017005       |
+| GTF3C1      | HeLa                                    | 88466227         | 22119953      | No         | SRR502069         | -                 | SRX150422       |
+| GTF3C1      | hESC H9                                 | 54391172         | 9501628       | No         | SRR5224141        | -                 | SRX2533322      |
+| GTF3C1      | hESC H9                                 | 54391172         | 9504916       | No         | SRR5224140        | -                 | SRX2533321      |
+| GTF3C1      | hESC H9                                 | 54391172         | 7230666       | No         | SRR5224142        | -                 | SRX2533323      |
+| GTF3C1      | hESC H9                                 | 54391172         | 7070482       | No         | SRR5224143        | -                 | SRX2533323      |
+| GTF3C1      | hESC H9                                 | 54391172         | 10703233      | No         | SRR5224144        | -                 | SRX2533324      |
+| GTF3C1      | hESC H9                                 | 54391172         | 10380247      | No         | SRR5224145        | -                 | SRX2533324      |
+| GTF3C2      | IMR-90                                  | 63693990         | 17387155      | No         | SRR7875612        | -                 | SRX4714471      |
+| GTF3C2      | IMR-90                                  | 63693990         | 46306835      | No         | SRR7875614        | -                 | SRX4714473      |
+| GTF3C2      | T-47D                                   | 346434711        | 120642641     | No         | SRR7875596        | -                 | SRX4714455      |
+| GTF3C2      | T-47D                                   | 346434711        | 48147085      | No         | SRR7875621        | -                 | SRX4714480      |
+| GTF3C2      | T-47D                                   | 346434711        | 57175466      | No         | SRR9886581        | -                 | SRX6639037      |
+| GTF3C2      | T-47D                                   | 346434711        | 56658746      | No         | SRR9886582        | -                 | SRX6639038      |
+| GTF3C2      | T-47D                                   | 346434711        | 63810773      | No         | SRR7875592        | -                 | SRX4714451      |
+| GTF3C2      | T98G                                    | 225527505        | 84498530      | No         | SRR7875608        | -                 | SRX4714467      |
+| GTF3C2      | T98G                                    | 225527505        | 70348441      | No         | SRR7875610        | -                 | SRX4714469      |
+| GTF3C2      | T98G                                    | 225527505        | 70680534      | No         | SRR7875623        | -                 | SRX4714482      |
+| GTF3C2      | hESC H9                                 | 64899391         | 64899391      | No         | SRR17771681       | -                 | SRX13933973     |
+| GTF3C5      | IMR-5                                   | 20339183         | 10114276      | No         | SRR3207449        | -                 | SRX1616411      |
+| GTF3C5      | IMR-5                                   | 20339183         | 10224907      | No         | SRR3207450        | -                 | SRX1616412      |
+| IGG         | A549                                    | 157264642        | 80509334      | Yes        | ENCFF002EJF       | ENCFF002EJD       |                 |
+| IGG         | A549                                    | 157264642        | 76755308      | Yes        | ENCFF002EJI       | ENCFF002EJB       |                 |
+| IGG         | HepG2                                   | 151907668        | 72117212      | Yes        | ENCFF002EIA       | ENCFF002EID       |                 |
+| IGG         | HepG2                                   | 151907668        | 79790456      | Yes        | ENCFF002EIB       | ENCFF002EIC       |                 |
+| IGG         | K562                                    | 105419078        | 39738737      | Yes        | ENCFF002EFY       | ENCFF002DUC       |                 |
+| IGG         | K562                                    | 105419078        | 65680341      | Yes        | ENCFF002EGI       | ENCFF002EGA       |                 |
+| IGG         | MCF-7                                   | 314218130        | 90972566      | Yes        | ENCFF002EHD       | ENCFF002DTX       |                 |
+| IGG         | MCF-7                                   | 314218130        | 59635093      | Yes        | ENCFF002ELW       | ENCFF002ELX       |                 |
+| IGG         | MCF-7                                   | 314218130        | 73676920      | Yes        | ENCFF002DUF       | ENCFF002EGX       |                 |
+| IGG         | MCF-7                                   | 314218130        | 89933551      | Yes        | ENCFF002EHE       | ENCFF002EHF       |                 |
+| IGG         | THP-1                                   | 69948627         | 69948627      | Yes        | SRR13268105_1     | SRR13268105_2     |                 |
+| POLR1B      | HEK293T                                 | 52952799         | 11860696      | No         | SRR087747         | -                 |                 |
+| POLR1A      | K562                                    | 52952799         | 41092103      | No         | ERR2109141        | -                 |                 |
+| POLR2A      | A549                                    | 69668888         | 36992512      | No         | ENCFF000RMM       | -                 |                 |
+| POLR2A      | A549                                    | 69668888         | 32676376      | No         | ENCFF000RMO       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 5714798       | No         | ENCFF000WBQ       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 6004938       | No         | ENCFF000WBS       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 5368875       | No         | ENCFF000WBT       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 6972753       | No         | ENCFF000WBV       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 5672214       | No         | ENCFF000WBW       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 6336821       | No         | ENCFF000WBX       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 14795146      | No         | ENCFF000WCC       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 16157397      | No         | ENCFF000RPI       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 11017478      | No         | ENCFF000RPL       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 31454718      | No         | ENCFF000OBB       | -                 |                 |
+| POLR2A      | GM12878                                 | 139912938        | 30417800      | No         | ENCFF000OBE       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 19824077      | No         | ENCFF000OIW       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 21873581      | No         | ENCFF000OIZ       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 14182328      | No         | ENCFF000WIL       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 16011135      | No         | ENCFF000WIM       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 16430525      | No         | ENCFF000WIO       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 6640065       | No         | ENCFF000WIW       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 7429710       | No         | ENCFF000WJB       | -                 |                 |
+| POLR2A      | GM12891                                 | 109711035        | 7319614       | No         | ENCFF000WJC       | -                 |                 |
+| POLR2A      | GM12892                                 | 80193877         | 6320354       | No         | ENCFF000WJQ       | -                 |                 |
+| POLR2A      | GM12892                                 | 80193877         | 8561445       | No         | ENCFF000WJR       | -                 |                 |
+| POLR2A      | GM12892                                 | 80193877         | 10752673      | No         | ENCFF000WJY       | -                 |                 |
+| POLR2A      | GM12892                                 | 80193877         | 21165664      | No         | ENCFF000OLH       | -                 |                 |
+| POLR2A      | GM12892                                 | 80193877         | 33393741      | No         | ENCFF000OLJ       | -                 |                 |
+| POLR2A      | GM18505                                 | 37137423         | 6248887       | No         | ENCFF000WLY       | -                 |                 |
+| POLR2A      | GM18505                                 | 37137423         | 6316977       | No         | ENCFF000WMB       | -                 |                 |
+| POLR2A      | GM18505                                 | 37137423         | 10699173      | No         | ENCFF000WMC       | -                 |                 |
+| POLR2A      | GM18505                                 | 37137423         | 13872386      | No         | ENCFF000WML       | -                 |                 |
+| POLR2A      | GM18951                                 | 24180945         | 4969650       | No         | ENCFF000WOB       | -                 |                 |
+| POLR2A      | GM18951                                 | 24180945         | 6977178       | No         | ENCFF000WOC       | -                 |                 |
+| POLR2A      | GM18951                                 | 24180945         | 3664853       | No         | ENCFF000WOF       | -                 |                 |
+| POLR2A      | GM18951                                 | 24180945         | 8569264       | No         | ENCFF000WOL       | -                 |                 |
+| POLR2A      | GM19099                                 | 28056135         | 6990880       | No         | ENCFF000WPB       | -                 |                 |
+| POLR2A      | GM19099                                 | 28056135         | 5623514       | No         | ENCFF000WPD       | -                 |                 |
+| POLR2A      | GM19099                                 | 28056135         | 15441741      | No         | ENCFF000WPL       | -                 |                 |
+| POLR2A      | GM19193                                 | 25626801         | 4370301       | No         | ENCFF000WQF       | -                 |                 |
+| POLR2A      | GM19193                                 | 25626801         | 4873260       | No         | ENCFF000WQJ       | -                 |                 |
+| POLR2A      | GM19193                                 | 25626801         | 7578532       | No         | ENCFF000WQM       | -                 |                 |
+| POLR2A      | GM19193                                 | 25626801         | 8804708       | No         | ENCFF000WRO       | -                 |                 |
+| POLR2A      | H1                                      | 73956989         | 33104798      | No         | ENCFF000ORP       | -                 |                 |
+| POLR2A      | H1                                      | 73956989         | 23331771      | No         | ENCFF000ORR       | -                 |                 |
+| POLR2A      | H1                                      | 73956989         | 17520420      | No         | ENCFF000RSM       | -                 |                 |
+| POLR2A      | H54                                     | 36054194         | 20037709      | No         | ENCFF000RNL       | -                 |                 |
+| POLR2A      | H54                                     | 36054194         | 16016485      | No         | ENCFF000RNQ       | -                 |                 |
+| POLR2A      | HeLa-S3                                 | 87340517         | 5482275       | No         | ENCFF000RTM       | -                 |                 |
+| POLR2A      | HeLa-S3                                 | 87340517         | 24693639      | No         | ENCFF000PEV       | -                 |                 |
+| POLR2A      | HeLa-S3                                 | 87340517         | 29265379      | No         | ENCFF000PFC       | -                 |                 |
+| POLR2A      | HeLa-S3                                 | 87340517         | 7646887       | No         | ENCFF000XJP       | -                 |                 |
+| POLR2A      | HeLa-S3                                 | 87340517         | 10259928      | No         | ENCFF000XJS       | -                 |                 |
+| POLR2A      | HeLa-S3                                 | 87340517         | 9992409       | No         | ENCFF000XKD       | -                 |                 |
+| POLR2A      | HepG2                                   | 105583880        | 17379821      | No         | ENCFF000PNM       | -                 |                 |
+| POLR2A      | HepG2                                   | 105583880        | 25447057      | No         | ENCFF000PNT       | -                 |                 |
+| POLR2A      | HepG2                                   | 105583880        | 18964839      | No         | ENCFF000XWJ       | -                 |                 |
+| POLR2A      | HepG2                                   | 105583880        | 23246385      | No         | ENCFF000XWR       | -                 |                 |
+| POLR2A      | HepG2                                   | 105583880        | 5204101       | No         | ENCFF000RUR       | -                 |                 |
+| POLR2A      | HepG2                                   | 105583880        | 7043434       | No         | ENCFF000RUT       | -                 |                 |
+| POLR2A      | HepG2                                   | 105583880        | 8298243       | No         | ENCFF000RUY       | -                 |                 |
+| POLR2A      | IMR-90                                  | 54368055         | 27743747      | No         | ENCFF000YDX       | -                 |                 |
+| POLR2A      | IMR-90                                  | 54368055         | 26624308      | No         | ENCFF000YDZ       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 11304945      | No         | ENCFF000YXN       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 10635844      | No         | ENCFF000YXO       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 34224229      | No         | ENCFF000QDX       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 32195895      | No         | ENCFF000QDY       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 48941971      | Yes        | ENCFF959SCN       | ENCFF545PSD       |                 |
+| POLR2A      | K562                                    | 327866848        | 51075620      | Yes        | ENCFF272EEG       | ENCFF531FHF       |                 |
+| POLR2A      | K562                                    | 327866848        | 8984193       | No         | ENCFF000YXG       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 9565532       | No         | ENCFF000YXH       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 255           | No         | ENCFF000RWV       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 17291350      | No         | ENCFF000RXB       | -                 |                 |
+| POLR2A      | K562                                    | 327866848        | 58713927      | Yes        | ENCFF839LPL       | ENCFF698ICA       |                 |
+| POLR2A      | K562                                    | 327866848        | 44933087      | Yes        | ENCFF920SBM       | ENCFF400NVU       |                 |
+| POLR2A      | MCF-7                                   | 200053553        | 36340241      | No         | ENCFF000SBV       | -                 |                 |
+| POLR2A      | MCF-7                                   | 200053553        | 36311353      | No         | ENCFF000SBY       | -                 |                 |
+| POLR2A      | MCF-7                                   | 200053553        | 34552609      | No         | ENCFF000SBO       | -                 |                 |
+| POLR2A      | MCF-7                                   | 200053553        | 35572561      | No         | ENCFF000SBP       | -                 |                 |
+| POLR2A      | MCF-7                                   | 200053553        | 29175131      | No         | ENCFF000SBI       | -                 |                 |
+| POLR2A      | MCF-7                                   | 200053553        | 28101658      | No         | ENCFF000SBK       | -                 |                 |
+| POLR2A      | Raji                                    | 22497988         | 7399747       | No         | ENCFF000ZPU       | -                 |                 |
+| POLR2A      | Raji                                    | 22497988         | 15098241      | No         | ENCFF000ZQE       | -                 |                 |
+| POLR2A      | adrenal gland                           | 225552181        | 93365718      | Yes        | ENCFF411THN       | ENCFF180UGD       |                 |
+| POLR2A      | adrenal gland                           | 225552181        | 132186463     | Yes        | ENCFF933ONW       | ENCFF464OZG       |                 |
+| POLR2A      | body of pancreas                        | 446409687        | 123977836     | Yes        | ENCFF943DRV       | ENCFF195OVM       |                 |
+| POLR2A      | body of pancreas                        | 446409687        | 158988031     | Yes        | ENCFF703TVC       | ENCFF826QIL       |                 |
+| POLR2A      | body of pancreas                        | 446409687        | 67221458      | Yes        | ENCFF176BWH       | ENCFF019HPW       |                 |
+| POLR2A      | body of pancreas                        | 446409687        | 96222362      | Yes        | ENCFF506ONU       | ENCFF113JGC       |                 |
+| POLR2A      | breast epithelium                       | 130525366        | 54994093      | Yes        | ENCFF074WTD       | ENCFF784DME       |                 |
+| POLR2A      | breast epithelium                       | 130525366        | 75531273      | Yes        | ENCFF177KGH       | ENCFF225AAI       |                 |
+| POLR2A      | endothelial cell of umbilical vein      | 82191493         | 136780        | No         | ENCFF000RVR       | -                 |                 |
+| POLR2A      | endothelial cell of umbilical vein      | 82191493         | 403145        | No         | ENCFF000RVW       | -                 |                 |
+| POLR2A      | endothelial cell of umbilical vein      | 82191493         | 10950397      | No         | ENCFF000YBD       | -                 |                 |
+| POLR2A      | endothelial cell of umbilical vein      | 82191493         | 11042185      | No         | ENCFF000YBR       | -                 |                 |
+| POLR2A      | endothelial cell of umbilical vein      | 82191493         | 9553993       | No         | ENCFF000YCV       | -                 |                 |
+| POLR2A      | endothelial cell of umbilical vein      | 82191493         | 14988670      | No         | ENCFF000PVK       | -                 |                 |
+| POLR2A      | endothelial cell of umbilical vein      | 82191493         | 35116323      | No         | ENCFF000PVP       | -                 |                 |
+| POLR2A      | erythroblast                            | 64566593         | 33581060      | No         | ENCFF000ZPK       | -                 |                 |
+| POLR2A      | erythroblast                            | 64566593         | 30985533      | No         | ENCFF000ZPN       | -                 |                 |
+| POLR2A      | esophagus muscularis mucosa             | 71140434         | 71140434      | Yes        | ENCFF438UOR       | ENCFF478FFG       |                 |
+| POLR2A      | esophagus squamous epithelium           | 354133036        | 100268058     | Yes        | ENCFF813TWG       | ENCFF141YYX       |                 |
+| POLR2A      | esophagus squamous epithelium           | 354133036        | 81931897      | Yes        | ENCFF547OPO       | ENCFF996YRU       |                 |
+| POLR2A      | esophagus squamous epithelium           | 354133036        | 84185075      | Yes        | ENCFF356QEU       | ENCFF759FBS       |                 |
+| POLR2A      | esophagus squamous epithelium           | 354133036        | 87748006      | Yes        | ENCFF096WFG       | ENCFF550IEW       |                 |
+| POLR2A      | gastrocnemius medialis                  | 172644056        | 80198288      | Yes        | ENCFF956QIS       | ENCFF300RLH       |                 |
+| POLR2A      | gastrocnemius medialis                  | 172644056        | 92445768      | Yes        | ENCFF570FCV       | ENCFF713HTL       |                 |
+| POLR2A      | gastroesophageal sphincter              | 334803278        | 41713303      | Yes        | ENCFF763EWZ       | ENCFF828DEK       |                 |
+| POLR2A      | gastroesophageal sphincter              | 334803278        | 41819349      | Yes        | ENCFF331BQR       | ENCFF082IYB       |                 |
+| POLR2A      | gastroesophageal sphincter              | 334803278        | 90069276      | Yes        | ENCFF545SYX       | ENCFF972WGI       |                 |
+| POLR2A      | gastroesophageal sphincter              | 334803278        | 58104624      | Yes        | ENCFF026VCA       | ENCFF357YNX       |                 |
+| POLR2A      | gastroesophageal sphincter              | 334803278        | 103096726     | Yes        | ENCFF336GML       | ENCFF163KIH       |                 |
+| POLR2A      | heart left ventricle                    | 173047716        | 92559249      | Yes        | ENCFF791UGB       | ENCFF254TVF       |                 |
+| POLR2A      | heart left ventricle                    | 173047716        | 80488467      | Yes        | ENCFF999VOH       | ENCFF435KUB       |                 |
+| POLR2A      | lower leg skin                          | 463795080        | 92054194      | Yes        | ENCFF068NIQ       | ENCFF844DFN       |                 |
+| POLR2A      | lower leg skin                          | 463795080        | 100700344     | Yes        | ENCFF599ZRC       | ENCFF229BOO       |                 |
+| POLR2A      | lower leg skin                          | 463795080        | 76436042      | Yes        | ENCFF641KSE       | ENCFF246RFD       |                 |
+| POLR2A      | lower leg skin                          | 463795080        | 127308342     | Yes        | ENCFF346MYJ       | ENCFF223FTQ       |                 |
+| POLR2A      | lower leg skin                          | 463795080        | 67296158      | Yes        | ENCFF182BFU       | ENCFF967GHE       |                 |
+| POLR2A      | ovary                                   | 102416246        | 102416246     | Yes        | ENCFF384MEM       | ENCFF322TJU       |                 |
+| POLR2A      | prostate gland                          | 174920444        | 79057976      | Yes        | ENCFF883DYX       | ENCFF516YRH       |                 |
+| POLR2A      | prostate gland                          | 174920444        | 95862468      | Yes        | ENCFF278XHE       | ENCFF869NYZ       |                 |
+| POLR2A      | right lobe of liver                     | 69246367         | 69246367      | Yes        | ENCFF174GER       | ENCFF071CTT       |                 |
+| POLR2A      | sigmoid colon                           | 301285138        | 91865667      | Yes        | ENCFF843LGK       | ENCFF353IIG       |                 |
+| POLR2A      | sigmoid colon                           | 301285138        | 73581255      | Yes        | ENCFF943KNW       | ENCFF509ERN       |                 |
+| POLR2A      | sigmoid colon                           | 301285138        | 92248579      | Yes        | ENCFF015MWE       | ENCFF405OKO       |                 |
+| POLR2A      | sigmoid colon                           | 301285138        | 43589637      | Yes        | ENCFF112BSI       | ENCFF160QJZ       |                 |
+| POLR2A      | spleen                                  | 391884237        | 119822087     | Yes        | ENCFF073GNS       | ENCFF975DHQ       |                 |
+| POLR2A      | spleen                                  | 391884237        | 121258426     | Yes        | ENCFF982FBQ       | ENCFF837IQA       |                 |
+| POLR2A      | spleen                                  | 391884237        | 73443057      | Yes        | ENCFF510UIJ       | ENCFF606RQN       |                 |
+| POLR2A      | spleen                                  | 391884237        | 77360667      | Yes        | ENCFF894LNI       | ENCFF019BTC       |                 |
+| POLR2A      | stomach                                 | 336112177        | 72234850      | Yes        | ENCFF699OSQ       | ENCFF014DFT       |                 |
+| POLR2A      | stomach                                 | 336112177        | 60903238      | Yes        | ENCFF800HLE       | ENCFF700SNB       |                 |
+| POLR2A      | stomach                                 | 336112177        | 66182759      | Yes        | ENCFF073GTF       | ENCFF554PAM       |                 |
+| POLR2A      | stomach                                 | 336112177        | 43005346      | Yes        | ENCFF090TRF       | ENCFF014FRE       |                 |
+| POLR2A      | stomach                                 | 336112177        | 93785984      | Yes        | ENCFF800XBW       | ENCFF233QXS       |                 |
+| POLR2A      | suprapubic skin                         | 196438792        | 110803932     | Yes        | ENCFF310UBW       | ENCFF834BMO       |                 |
+| POLR2A      | suprapubic skin                         | 196438792        | 85634860      | Yes        | ENCFF706ERC       | ENCFF797OQU       |                 |
+| POLR2A      | testis                                  | 83265085         | 83265085      | Yes        | ENCFF788VTV       | ENCFF768RJW       |                 |
+| POLR2A      | thyroid gland                           | 199544925        | 118490417     | Yes        | ENCFF536HLB       | ENCFF669LRI       |                 |
+| POLR2A      | thyroid gland                           | 199544925        | 81054508      | Yes        | ENCFF757IXD       | ENCFF643EOI       |                 |
+| POLR2A      | tibial nerve                            | 158782236        | 74942111      | Yes        | ENCFF556MUX       | ENCFF672XQY       |                 |
+| POLR2A      | tibial nerve                            | 158782236        | 83840125      | Yes        | ENCFF732EAG       | ENCFF807YBJ       |                 |
+| POLR2A      | transverse colon                        | 261042982        | 114903528     | Yes        | ENCFF445QWT       | ENCFF384DGC       |                 |
+| POLR2A      | transverse colon                        | 261042982        | 71998308      | Yes        | ENCFF945PBZ       | ENCFF252EVO       |                 |
+| POLR2A      | transverse colon                        | 261042982        | 36770063      | Yes        | ENCFF272HAB       | ENCFF763GOA       |                 |
+| POLR2A      | transverse colon                        | 261042982        | 37371083      | Yes        | ENCFF466DDM       | ENCFF768VKW       |                 |
+| POLR2A      | upper lobe of left lung                 | 316893809        | 64749762      | Yes        | ENCFF715ESG       | ENCFF740EMX       |                 |
+| POLR2A      | upper lobe of left lung                 | 316893809        | 90434595      | Yes        | ENCFF241CFU       | ENCFF962IZX       |                 |
+| POLR2A      | upper lobe of left lung                 | 316893809        | 75103347      | Yes        | ENCFF063DDH       | ENCFF955ITN       |                 |
+| POLR2A      | upper lobe of left lung                 | 316893809        | 86606105      | Yes        | ENCFF012WDS       | ENCFF347JRV       |                 |
+| POLR2A      | uterus                                  | 173973132        | 95600590      | Yes        | ENCFF500XDC       | ENCFF042CMS       |                 |
+| POLR2A      | uterus                                  | 173973132        | 78372542      | Yes        | ENCFF973HMK       | ENCFF534XBR       |                 |
+| POLR2A      | vagina                                  | 164935104        | 65839982      | Yes        | ENCFF166CFL       | ENCFF115IMK       |                 |
+| POLR2A      | vagina                                  | 164935104        | 99095122      | Yes        | ENCFF389ZTP       | ENCFF788KCN       |                 |
+| POLR3A      | 293                                     | 417875684        | 90451568      | Yes        | SRR7717420_1      | SRR7717420_2      | SRX4574092      |
+| POLR3A      | 293                                     | 417875684        | 110822913     | Yes        | SRR7717421_1      | SRR7717421_2      | SRX4574093      |
+| POLR3A      | 293                                     | 417875684        | 105424077     | Yes        | SRR7717419_1      | SRR7717419_2      | SRX4574091      |
+| POLR3A      | 293                                     | 417875684        | 111177126     | Yes        | SRR7717422_1      | SRR7717422_2      | SRX4574094      |
+| POLR3A      | THP-1                                   | 158290549        | 46681820      | Yes        | SRR13268085_1     | SRR13268085_2     | SRX9698427      |
+| POLR3A      | THP-1                                   | 158290549        | 18991432      | Yes        | SRR13268086_1     | SRR13268086_2     | SRX9698427      |
+| POLR3A      | THP-1                                   | 158290549        | 25820847      | Yes        | SRR13268088_1     | SRR13268088_2     | SRX9698428      |
+| POLR3A      | THP-1                                   | 158290549        | 66796450      | Yes        | SRR13268087_1     | SRR13268087_2     | SRX9698428      |
+| POLR3B      | THP-1                                   | 345917166        | 101409231     | Yes        | SRR13268090_1     | SRR13268090_2     | SRX9698430      |
+| POLR3B      | THP-1                                   | 345917166        | 80162623      | Yes        | SRR13268089_1     | SRR13268089_2     | SRX9698429      |
+| POLR3B      | THP-1                                   | 345917166        | 85374313      | Yes        | SRR13268107_1     | SRR13268107_2     | SRX9698447      |
+| POLR3B      | THP-1                                   | 345917166        | 78970999      | Yes        | SRR13268106_1     | SRR13268106_2     | SRX9698446      |
+| POLR3C      | 293                                     | 337277136        | 85834537      | No         | SRR10990458       | -                 | SRX5803016      |
+| POLR3C      | 293                                     | 337277136        | 81293731      | No         | SRR10990461       | -                 | SRX5803019      |
+| POLR3C      | 293                                     | 337277136        | 80407568      | No         | SRR10990459       | -                 | SRX5803017      |
+| POLR3C      | 293                                     | 337277136        | 89741300      | No         | SRR10990460       | -                 | SRX5803018      |
+| POLR3C      | THP-1                                   | 277552948        | 127836523     | Yes        | SRR13268093_1     | SRR13268093_2     | SRX9698433      |
+| POLR3C      | THP-1                                   | 277552948        | 149716425     | Yes        | SRR13268094_1     | SRR13268094_2     | SRX9698434      |
+| POLR3D      | IMR-90                                  | 2318624371       | 56951831      | No         | SRR896108         | -                 | SRX301446       |
+| POLR3D      | IMR-90                                  | 2318624371       | 194380026     | No         | SRR2633803        | -                 | SRX1330892      |
+| POLR3D      | IMR-90                                  | 2318624371       | 217695630     | No         | SRR2633801        | -                 | SRX1330890      |
+| POLR3D      | IMR-90                                  | 2318624371       | 190762843     | No         | SRR2633802        | -                 | SRX1330891      |
+| POLR3D      | IMR-90                                  | 2318624371       | 226110635     | No         | SRR2633807        | -                 | SRX1330896      |
+| POLR3D      | IMR-90                                  | 2318624371       | 227517813     | No         | SRR2633808        | -                 | SRX1330897      |
+| POLR3D      | IMR-90                                  | 2318624371       | 214884906     | No         | SRR2633805        | -                 | SRX1330894      |
+| POLR3D      | IMR-90                                  | 2318624371       | 211344680     | No         | SRR2633804        | -                 | SRX1330893      |
+| POLR3D      | IMR-90                                  | 2318624371       | 186713518     | No         | SRR2633817        | -                 | SRX1330906      |
+| POLR3D      | IMR-90                                  | 2318624371       | 199971505     | No         | SRR2633806        | -                 | SRX1330895      |
+| POLR3D      | IMR-90                                  | 2318624371       | 203989351     | No         | SRR2633819        | -                 | SRX1330908      |
+| POLR3D      | IMR-90                                  | 2318624371       | 188301633     | No         | SRR2633818        | -                 | SRX1330907      |
+| POLR3D      | THP-1                                   | 573670006        | 55606520      | Yes        | SRR5359608_1      | SRR5359608_2      | SRX2655447      |
+| POLR3D      | THP-1                                   | 573670006        | 63564974      | Yes        | SRR5359609_1      | SRR5359609_2      | SRX2655448      |
+| POLR3D      | THP-1                                   | 573670006        | 79328582      | Yes        | SRR5359611_1      | SRR5359611_2      | SRX2655450      |
+| POLR3D      | THP-1                                   | 573670006        | 48030948      | Yes        | SRR5359610_1      | SRR5359610_2      | SRX2655449      |
+| POLR3D      | THP-1                                   | 573670006        | 68090581      | Yes        | SRR13268099_1     | SRR13268099_2     | SRX9698439      |
+| POLR3D      | THP-1                                   | 573670006        | 88168648      | Yes        | SRR13268100_1     | SRR13268100_2     | SRX9698440      |
+| POLR3D      | THP-1                                   | 573670006        | 80327410      | Yes        | SRR13268115_1     | SRR13268115_2     | SRX9698455      |
+| POLR3D      | THP-1                                   | 573670006        | 90552343      | Yes        | SRR13268114_1     | SRR13268114_2     | SRX9698454      |
+| POLR3E      | THP-1                                   | 229954889        | 131119489     | Yes        | SRR13268102_1     | SRR13268102_2     | SRX9698442      |
+| POLR3E      | THP-1                                   | 229954889        | 98835400      | Yes        | SRR13268101_1     | SRR13268101_2     | SRX9698441      |
+| POLR3G      | IMR-90                                  | 55724283         | 55724283      | No         | SRR896109         | -                 | SRX301447       |
+| POLR3G      | THP-1                                   | 339182841        | 44659853      | Yes        | SRR13268095_1     | SRR13268095_2     | SRX9698435      |
+| POLR3G      | THP-1                                   | 339182841        | 62710285      | Yes        | SRR13268096_1     | SRR13268096_2     | SRX9698436      |
+| POLR3G      | THP-1                                   | 339182841        | 48507178      | Yes        | SRR13268110_1     | SRR13268110_2     | SRX9698450      |
+| POLR3G      | THP-1                                   | 339182841        | 55771545      | Yes        | SRR13268111_1     | SRR13268111_2     | SRX9698451      |
+| POLR3G      | THP-1                                   | 339182841        | 56293998      | Yes        | SRR13268116_1     | SRR13268116_2     | SRX9698456      |
+| POLR3G      | THP-1                                   | 339182841        | 71239982      | Yes        | SRR13268117_1     | SRR13268117_2     | SRX9698457      |
+| POLR3GL     | IMR-90                                  | 54875000         | 54875000      | No         | SRR896110         | -                 | SRX301448       |
+| POLR3GL     | THP-1                                   | 466478517        | 73676314      | Yes        | SRR13268097_1     | SRR13268097_2     | SRX9698437      |
+| POLR3GL     | THP-1                                   | 466478517        | 80569182      | Yes        | SRR13268098_1     | SRR13268098_2     | SRX9698438      |
+| POLR3GL     | THP-1                                   | 466478517        | 78956199      | Yes        | SRR13268113_1     | SRR13268113_2     | SRX9698453      |
+| POLR3GL     | THP-1                                   | 466478517        | 70879453      | Yes        | SRR13268112_1     | SRR13268112_2     | SRX9698452      |
+| POLR3GL     | THP-1                                   | 466478517        | 84928225      | Yes        | SRR13268119_1     | SRR13268119_2     | SRX9698459      |
+| POLR3GL     | THP-1                                   | 466478517        | 77469144      | Yes        | SRR13268118_1     | SRR13268118_2     | SRX9698458      |
+| SNAPC1      | IMR-90                                  | 29017923         | 29017923      | No         | SRR501634         | -                 | SRX150108       |
+| SNAPC2      | IMR-90                                  | 30177585         | 4840610       | No         | SRR035559         | -                 | SRX016559       |
+| SNAPC2      | IMR-90                                  | 30177585         | 11508985      | No         | SRR501633         | -                 | SRX150107       |
+| SNAPC2      | IMR-90                                  | 30177585         | 9839394       | No         | SRR501632         | -                 | SRX150106       |
+| SNAPC2      | IMR-90                                  | 30177585         | 3988596       | No         | SRR035558         | -                 | SRX016559       |
+| SNAPC4      | HCT 116                                 | 84109060         | 43836738      | No         | SRR11969088       | -                 | SRX8512868      |
+| SNAPC4      | HCT 116                                 | 84109060         | 40272322      | No         | SRR11969089       | -                 | SRX8512869      |
+| SNAPC4      | Hep G2                                  | 79436906         | 40342209      | No         | SRR14104370       | -                 | SRX10475809     |
+| SNAPC4      | Hep G2                                  | 79436906         | 39094697      | No         | SRR14104371       | -                 | SRX10475810     |
+| SNAPC4      | LoVo                                    | 22451100         | 22451100      | No         | SRR1002575        | -                 | SRX360040       |
+| SNAPC4      | MCF 10A                                 | 29935326         | 29935326      | No         | SRR488764         | -                 | SRX143300       |
+| SNAPC5      | IMR-90                                  | 31799535         | 31799535      | No         | SRR501635         | -                 | SRX150109       |
+| SNAPC5      | K-562                                   | 190556472        | 72086357      | Yes        | SRR14636379_1     | SRR14636379_2     | SRX10976129     |
+| SNAPC5      | K-562                                   | 190556472        | 118470115     | Yes        | SRR14636380_1     | SRR14636380_2     | SRX10976130     |
+| TBP         | 293                                     | 96140178         | 49730483      | Yes        | SRR14879798_1     | SRR14879798_2     | SRX11196941     |
+| TBP         | 293                                     | 96140178         | 46409695      | Yes        | SRR14879799_1     | SRR14879799_2     | SRX11196942     |
+| TBP         | Bronchial tracheal epithelial cells     | 84987491         | 32114691      | No         | SRR7497981        | -                 | SRX4367422      |
+| TBP         | Bronchial tracheal epithelial cells     | 84987491         | 17651376      | No         | SRR7497980        | -                 | SRX4367421      |
+| TBP         | Bronchial tracheal epithelial cells     | 84987491         | 9979248       | No         | SRR7498000        | -                 | SRX4367441      |
+| TBP         | Bronchial tracheal epithelial cells     | 84987491         | 8866343       | No         | SRR7497990        | -                 | SRX4367431      |
+| TBP         | Bronchial tracheal epithelial cells     | 84987491         | 10411362      | No         | SRR7498001        | -                 | SRX4367442      |
+| TBP         | Bronchial tracheal epithelial cells     | 84987491         | 5964471       | No         | SRR7497991        | -                 | SRX4367432      |
+| TBP         | Foreskin                                | 320150768        | 89680353      | Yes        | SRR16288497_1     | SRR16288497_2     | SRX12567770     |
+| TBP         | Foreskin                                | 320150768        | 88592298      | Yes        | SRR16288498_1     | SRR16288498_2     | SRX12567770     |
+| TBP         | Foreskin                                | 320150768        | 76349960      | Yes        | SRR16288509_1     | SRR16288509_2     | SRX12567778     |
+| TBP         | Foreskin                                | 320150768        | 65528157      | Yes        | SRR16288510_1     | SRR16288510_2     | SRX12567779     |
+| TBP         | GM12878                                 | 44009147         | 22685432      | No         | SRR501925         | -                 | SRX150357       |
+| TBP         | GM12878                                 | 44009147         | 21323715      | No         | SRR501926         | -                 | SRX150357       |
+| TBP         | HeLa                                    | 38430877         | 20812978      | No         | SRR502618         | -                 | SRX150685       |
+| TBP         | HeLa                                    | 38430877         | 17617899      | No         | SRR502619         | -                 | SRX150685       |
+| TBP         | Hep G2                                  | 109256620        | 21329866      | No         | SRR501933         | -                 | SRX150360       |
+| TBP         | Hep G2                                  | 109256620        | 22328235      | No         | SRR501932         | -                 | SRX150360       |
+| TBP         | Hep G2                                  | 109256620        | 27266446      | No         | SRR14103929       | -                 | SRX10475554     |
+| TBP         | Hep G2                                  | 109256620        | 38332073      | No         | SRR14103928       | -                 | SRX10475553     |
+| TBP         | K-562                                   | 589418373        | 24624617      | No         | SRR502379         | -                 | SRX150574       |
+| TBP         | K-562                                   | 589418373        | 22152184      | No         | SRR502378         | -                 | SRX150574       |
+| TBP         | K-562                                   | 589418373        | 22943525      | No         | SRR1185445        | -                 | SRX482859       |
+| TBP         | K-562                                   | 589418373        | 62555232      | Yes        | SRR13049288_1     | SRR13049288_2     | SRX9498683      |
+| TBP         | K-562                                   | 589418373        | 46750034      | Yes        | SRR13049291_1     | SRR13049291_2     | SRX9498686      |
+| TBP         | K-562                                   | 589418373        | 37541424      | Yes        | SRR13049289_1     | SRR13049289_2     | SRX9498684      |
+| TBP         | K-562                                   | 589418373        | 71000320      | Yes        | SRR13049268_1     | SRR13049268_2     | SRX9498730      |
+| TBP         | K-562                                   | 589418373        | 57376407      | Yes        | SRR13049269_1     | SRR13049269_2     | SRX9498731      |
+| TBP         | K-562                                   | 589418373        | 78377485      | Yes        | SRR13049270_1     | SRR13049270_2     | SRX9498732      |
+| TBP         | K-562                                   | 589418373        | 85899979      | Yes        | SRR13049271_1     | SRR13049271_2     | SRX9498733      |
+| TBP         | K-562                                   | 589418373        | 80197166      | Yes        | SRR13049290_1     | SRR13049290_2     | SRX9498685      |
+| TBP         | Mesenchymal stem cells                  | 75695050         | 41258851      | Yes        | SRR12467672_1     | SRR12467672_2     | SRX8961847      |
+| TBP         | Mesenchymal stem cells                  | 75695050         | 34436199      | Yes        | SRR12467683_1     | SRR12467683_2     | SRX8961858      |
+| TBP         | U2OS                                    | 48109418         | 20720169      | No         | SRR14370555       | -                 | SRX10722986     |
+| TBP         | U2OS                                    | 48109418         | 27389249      | No         | SRR14370556       | -                 | SRX10722987     |
+| TBP         | hESC H1                                 | 214136218        | 24793243      | No         | SRR501988         | -                 | SRX150383       |
+| TBP         | hESC H1                                 | 214136218        | 29870381      | No         | SRR501987         | -                 | SRX150383       |
+| TBP         | hESC H1                                 | 214136218        | 44738177      | No         | SRR9185038        | -                 | SRX5957524      |
+| TBP         | hESC H1                                 | 214136218        | 39420588      | No         | SRR9185039        | -                 | SRX5957525      |
+| TBP         | hESC H1                                 | 214136218        | 39404933      | No         | SRR9185040        | -                 | SRX5957526      |
+| TBP         | hESC H1                                 | 214136218        | 35908896      | No         | SRR9185041        | -                 | SRX5957527      |
+| TBP         | hESC H9                                 | 349866389        | 79210799      | Yes        | SRR14802462_1     | SRR14802462_2     | SRX11135513     |
+| TBP         | hESC H9                                 | 349866389        | 95502636      | Yes        | SRR14802464_1     | SRR14802464_2     | SRX11135515     |
+| TBP         | hESC H9                                 | 349866389        | 87162673      | Yes        | SRR14802463_1     | SRR14802463_2     | SRX11135514     |
+| TBP         | hESC H9                                 | 349866389        | 87990281      | Yes        | SRR14802465_1     | SRR14802465_2     | SRX11135516     |
+| TBP         | iPS cells                               | 257628585        | 17193378      | No         | SRR11885039       | -                 | SRX8432576      |
+| TBP         | iPS cells                               | 257628585        | 16066035      | No         | SRR11885040       | -                 | SRX8432576      |
+| TBP         | iPS cells                               | 257628585        | 16454130      | No         | SRR11885042       | -                 | SRX8432577      |
+| TBP         | iPS cells                               | 257628585        | 17601779      | No         | SRR11885041       | -                 | SRX8432577      |
+| TBP         | iPS cells                               | 257628585        | 15360117      | No         | SRR11885044       | -                 | SRX8432578      |
+| TBP         | iPS cells                               | 257628585        | 16419122      | No         | SRR11885043       | -                 | SRX8432578      |
+| TBP         | iPS cells                               | 257628585        | 16813490      | No         | SRR11885045       | -                 | SRX8432579      |
+| TBP         | iPS cells                               | 257628585        | 15778470      | No         | SRR11885046       | -                 | SRX8432579      |
+| TBP         | iPS cells                               | 257628585        | 17122751      | No         | SRR11885047       | -                 | SRX8432580      |
+| TBP         | iPS cells                               | 257628585        | 16023459      | No         | SRR11885048       | -                 | SRX8432580      |
+| TBP         | iPS cells                               | 257628585        | 16437172      | No         | SRR11885049       | -                 | SRX8432584      |
+| TBP         | iPS cells                               | 257628585        | 15334502      | No         | SRR11885050       | -                 | SRX8432584      |
+| TBP         | iPS cells                               | 257628585        | 16302030      | No         | SRR11885051       | -                 | SRX8432585      |
+| TBP         | iPS cells                               | 257628585        | 15184997      | No         | SRR11885052       | -                 | SRX8432585      |
+| TBP         | iPS cells                               | 257628585        | 15224782      | No         | SRR11885053       | -                 | SRX8432586      |
+| TBP         | iPS cells                               | 257628585        | 14312371      | No         | SRR11885054       | -                 | SRX8432586      |
