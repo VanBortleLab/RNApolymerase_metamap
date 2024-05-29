@@ -4,11 +4,11 @@
 
 # Overview:
 
-We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol) I, II, and III occupancies using > 200 ChIP-seq experiments performed in human tissues and cell lines, facilitating unbiased annotation of polymerase occupancy and overlap. This repository includes processed files and details related to our manuscript: KC et al., ...
+We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol) I, II, and III occupancies using > 200 ChIP-seq experiments performed in human tissues and cell lines, facilitating unbiased annotation of polymerase occupancy and overlap. We additionally survey specific factors related to Pol III, including TFIIIB subunits BRF1 and TBP, TFIIIC subunits GTF3C1, -2, -5, and SNAPC complex proteins SNAPC1, -2, -4, and -5. This repository specifically includes details and links to processed files related to our manuscript: KC et al., ...
 
 # Data processing:
 
-We retrieved available ChIP-seq data corresponding to complex-specific Pol I, II, and III subunits. Previous mapping experiments for human Pol I are exceptionally limited, with only 2 datasets for binding of the large subunits, POLR1A and POLR1B. Pol II datasets are significantly more abundant, with 153 POLR2A ChIP-seq experiments available for the large subunit of Pol II. ChIP-seq experiments for Pol III, on the other hand, include a multitude of Pol III-specific subunits, including POLR3A, -B, -C, -D, -E, and -G
+We retrieved available ChIP-seq data corresponding to complex-specific Pol I, II, and III subunits (see underlying data, below). Previous mapping experiments for human Pol I are exceptionally limited, with only 2 datasets for binding of the large subunits, POLR1A and POLR1B. Pol II datasets are significantly more abundant, with 153 POLR2A ChIP-seq experiments available for the large subunit of Pol II. ChIP-seq experiments for Pol III, on the other hand, include a multitude of Pol III-specific subunits, including POLR3A, -B, -C, -D, -E, and -G
 
 <p align="center">
 <img src="Pol_subunits.png" width="700px">
