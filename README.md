@@ -30,7 +30,7 @@ We next applied a peak calling framework for establishing a global polymerase-sp
 
 # Data formats
 
-![IGV Session](igv-session.gif)(https://tinyurl.com/29rey6al)
+[![IGV Session](igv-session.gif)](https://tinyurl.com/29rey6al)
 
 
 
