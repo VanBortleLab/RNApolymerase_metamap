@@ -33,7 +33,7 @@ We next applied a peak calling framework for establishing a global polymerase-sp
 **Signal track files** corresponding to our processed composite ChIP-seq and uniform bin-scores are available for download as individual `.bigwig` files via [Zenodo](https://zenodo.org/records/11373437).  
 
 Signal track `.bigwig` files are also available for download [on this page](https://github.com/VanBortleLab/RNApolymerase_metamap/tree/main/bigwig_files) in a reduced size.  
-*Note: these files are trimmed with a floor value to remove intervals with negligible values*.  
+*Note: for size purposes, these files are trimmed with a floor value to remove intervals with negligible scores*.  
 
 
 **[Click here](https://tinyurl.com/29rey6al) (or the recording below) to instantly visualize these tracks on IGV**
