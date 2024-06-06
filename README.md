@@ -30,9 +30,12 @@ We next applied a peak calling framework for establishing a global polymerase-sp
 
 # Data formats
 
-Composite ChIP-seq signal track files and uniform RNA polymerase bin-scores are publicly available in `.bigwig` format via [Zenodo](https://zenodo.org/records/11373437). These `.bigwig` files are also available [on this page]() in a reduced size. *Note: these files are trimmed with a floor value to remove intervals with negligble values*. 
+Signal track files corresponding to our processed composite ChIP-seq and uniform bin-scores are available as `.bigwig` file format via [Zenodo](https://zenodo.org/records/11373437). 
 
-[Click here](https://tinyurl.com/29rey6al) to visualize these tracks on IGV
+Signal track `.bigwig` files are also available [on this page]() in a reduced size. 
+*Note: these files are trimmed with a floor value to remove intervals with negligble values*. 
+
+**[Click here](https://tinyurl.com/29rey6al) (or the recording below) to visualize these tracks on IGV**
 
 [![IGV Session](igv-session.gif)](https://tinyurl.com/29rey6al)
 
