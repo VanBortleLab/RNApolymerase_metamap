@@ -4,7 +4,17 @@
 
 # Overview:
 
-We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol) I, II, and III occupancies using > 200 ChIP-seq experiments performed in human tissues and cell lines, facilitating unbiased annotation of polymerase occupancy and overlap. We additionally survey specific factors related to Pol III, including TFIIIB subunits BRF1 and TBP, TFIIIC subunits GTF3C1, -2, -5, and SNAPC complex proteins SNAPC1, -2, -4, and -5. This repository specifically includes details and links to processed files related to our manuscript: KC et al., ...
+We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol) I, II, and III occupancies using > 200 ChIP-seq experiments performed in human tissues and cell lines, facilitating unbiased annotation of polymerase occupancy and overlap. We additionally survey specific factors related to Pol III, including TFIIIB subunits BRF1 and TBP, TFIIIC subunits GTF3C1, -2, -5, and SNAPC complex proteins SNAPC1, -2, -4, and -5. This repository specifically includes details and links to processed files related to our manuscript: 
+
+    Evidence of RNA polymerase III recruitment and transcription at protein coding genes
+    Rajendra K C, Ruiying Cheng, Sihang Zhou, Simon Lizarazo, Duncan Smith, Kevin Van Bortle
+    https://www.biorxiv.org/content/10.1101/2024.06.08.598009.abstract
+    
+<p align="center">
+[<img src="images/KC_et_al.png" width="400px">](https://www.biorxiv.org/content/10.1101/2024.06.08.598009v1)
+</p>
+
+    
 
 # Data processing:
 
