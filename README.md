@@ -10,8 +10,9 @@ We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol
     Rajendra K C, Ruiying Cheng, Sihang Zhou, Simon Lizarazo, Duncan Smith, Kevin Van Bortle
     https://www.biorxiv.org/content/10.1101/2024.06.08.598009.abstract
     
-
-[![alt text](images/KC_et_al.png)](https://www.biorxiv.org/content/10.1101/2024.06.08.598009v1)
+<a href="https://www.biorxiv.org/content/10.1101/2024.06.08.598009v1">
+    <img src="images/KC_et_al.png" alt="Manuscript", style="width:400px;"/>
+</a>
 
     
 
