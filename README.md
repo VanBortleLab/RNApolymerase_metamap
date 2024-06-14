@@ -12,7 +12,7 @@ We applied a uniform, context-agnostic framework for scoring RNA polymerase (Pol
     
 <div style="text-align: center;">
     <a href="https://www.biorxiv.org/content/10.1101/2024.06.08.598009v1">
-        <img src="images/KC_et_al.png" alt="Manuscript", style="width:400px;"/>
+        <img src="images/KC_et_al.png" alt="Manuscript", style="width:400px; margin: 0 auto; display: block;"/>
     </a>
 </div>
 
